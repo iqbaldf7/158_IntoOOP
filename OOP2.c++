@@ -22,6 +22,8 @@ class bangunDatar{
            endl;
         }
 };
+int main(){
+
 
 
 
