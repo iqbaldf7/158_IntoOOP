@@ -13,3 +13,18 @@ class Mahasiswa{
             cout << "jurusan: " << jurusan << endl;
         }
 };
+
+class matakuliah{
+    private:
+        string kodeMk;
+        string namaMk;
+        int sks;
+    public :
+        void input(){
+            cout << "Kode MK: ";
+            cin >> kodeMk;
+            cout << "Nama MK: ";
+            cin >> namaMk;
+            cout << "SKS: ";
+            cin >> sks;
+        }
