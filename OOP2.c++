@@ -23,6 +23,12 @@ class bangunDatar{
         }
 };
 int main(){
+    bangunDatar pp;
+    pp.input();
+    pp.display();
+
+    return 0;
+}
 
 
 
