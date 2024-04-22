@@ -9,5 +9,7 @@ class bangunDatar{
 
         void input(){
               cout << "Masukkan Panjang = ";
+                cin >> panjang;
+
 
 
