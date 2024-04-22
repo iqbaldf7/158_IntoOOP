@@ -8,3 +8,6 @@ class bangunDatar{
         float luas;
 
         void input(){
+              cout << "Masukkan Panjang = ";
+
+
